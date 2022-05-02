@@ -1,1 +1,2 @@
-# Anti-Autoclick
+Made by keypluss
+The script is self-explanatory
